@@ -8,7 +8,9 @@ git push -u origin master
 git diff HEAD
 git checkout -- octocat.txt
 
-git branch
+git branch //This is used to view branches.
 git checkout clean_up
 git merge clean_up
 git branch -d clean_up
+git add -all
+git add '*.txt'
