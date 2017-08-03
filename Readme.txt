@@ -1,4 +1,4 @@
-git init
+igit init
 git status
 git add filename.txt
 git commit -m "Change log"
@@ -19,3 +19,5 @@ Change 1
 Change 2
 Change 3
 Change 4
+change 5
+
